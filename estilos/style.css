@@ -40,7 +40,7 @@ section#login {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.633);
 }
 
-section#login > div#imagem{
+section#login > div#imagem {
     display: block;
     background: #321645 url(../imagens/moto2.jpg) no-repeat;
     background-size: cover;
